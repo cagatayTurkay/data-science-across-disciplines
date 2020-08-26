@@ -1,4 +1,4 @@
-![teaser](images/teaser.png)
+![teaser](images/teaser3.png)
 
 # Data Science Across Disciplines
 
