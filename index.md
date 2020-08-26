@@ -1,3 +1,5 @@
+![teaser](images/teaser.png)
+
 # Data Science Across Disciplines
 
 This is the complementary page for the IM939 - Data Science Across Disciplines module that is being run at the Centre for Interdisciplinary Methodologies at the University of Warwick.
