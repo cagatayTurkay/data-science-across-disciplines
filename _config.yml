@@ -1,1 +1,17 @@
 theme: jekyll-theme-minimal
+# Navigation Menus
+header_navigation:
+  - title: Documentation
+    url: /docs/
+
+  - title: Themes
+    url: https://desiredpersona.com/themes/
+
+  - title: About
+    url: /about/
+
+  - title: Blog
+    url: /archive/
+
+  - title: Contact
+    url: mailto:you@example.com
