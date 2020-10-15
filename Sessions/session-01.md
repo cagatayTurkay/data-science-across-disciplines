@@ -66,6 +66,10 @@ And here are some books that can you with your learning:
 
 
 
+#### On critical thinking 
+
+https://leedsdatascience.github.io/post/prioritising-critical-thinking/
+
 ------
 
 Internal preparation part:
