@@ -30,7 +30,7 @@ Normally Python do not come with these packages and you need to download and [in
 
 In this module, we get around the burden of all these installations by using a pre-packaged Python environment called [Anaconda](https://www.anaconda.com/download/). What comes with Anaconda is the standard Python distribution and most  of the necessary packages for data analysis. If you need to read more,  the [Anaconda documentation](https://docs.continuum.io/anaconda/) pages are a good start.
 
-### Python related resources:
+## Python related resources:
 
 Although we try to cover the basics in Python programming in this  tutorial, some of you, especially those who are new to Python, might  benefit from some external tutorials which cover the basics. There are  many resources online but here are some good links:
 
@@ -38,12 +38,25 @@ Although we try to cover the basics in Python programming in this  tutorial, som
 - **Wikibooks for Python**: [http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3](http://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_3)
 - **Learnpython** even has an interactive console on the web: http://www.learnpython.org/
 
-And here are some books that can you with your learning:
+### Textbooks
+
+As textbooks for the coding side these two resources are really good:
+
+- **Python for Data Analysis by Wes McKinney** (the original author of Pandas) [[link to the e-book on library](http://encore.lib.warwick.ac.uk/iii/encore/record/C__Rb3473202)] [1st edition of the book is free to download from the [pandas page](https://pandas.pydata.org/)]
+  - This book is great for supporting most DS processes where you would be carrying out through Pandas. It doesn't go into more Machine Learning or Data Mining kind of modelling topics. But it goes into some advanced topics such as Time Series analysis and points to libraries such as statsmodels and scikit-learn as a move into modelling. And see the last chapters for some examples
+-  **Python Data Science Handbook by Jake VanderPlas** [[link to the html version](https://jakevdp.github.io/PythonDataScienceHandbook/)] and all the [associated material is here](https://github.com/jakevdp/PythonDataScienceHandbook) on a GitHub repository
+  - This book goes much further into more Machine Learning heavy operations and covers topics that are not covered in the first book. For instance, there is a detailed overview on how you can [work with PCA](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html) and the chapters are written nicely and there is always code to complement them. It is however not so detailed on exploratory data analysis phase as the first book and do not always make great use of Pandas functionality.  
+
+So you can use these two books in a complementary way to support your learning within the coding labs. 
+
+And here are some further books that can help you with your learning.
 
 - **Data science from scratch : first principles with Python** **/ Joel Grus** -- http://encore.lib.warwick.ac.uk/iii/encore/record/C__Rb3426067
   - Especially Chapter 2: A Crash course in Python to help with the preparations -- https://ebookcentral.proquest.com/lib/warw/reader.action?docID=5750897&ppg=33
 
 - Hunt, J., 2019. *A Beginners Guide to Python 3 Programming*. Springer. http://encore.lib.warwick.ac.uk/iii/encore/record/C__Rb3404588
 
-- Python for Data Analysis : Data Wrangling with Pandas, NumPy, and IPython
 
+### Online APIs and documentations
+
+You will hear us mentioning the importance of using online resources and library documentations. For instance, for scikit-learn, I start with the  [User Guide](https://scikit-learn.org/stable/user_guide.html) or the [API](https://scikit-learn.org/stable/modules/classes.html). For Pandas, [the user guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide) is the best and again [the API](https://pandas.pydata.org/docs/reference/index.html) is a very useful starting point. For seaborn the [API](https://seaborn.pydata.org/api.html) is pretty good with in-built examples. Of course, if you are using a different library, you need to rely on what the authors are providing online so the quality might vary -- that's the joy of open source, community led development but the standards have risen substantially over the last years so you often get very good guidance.
