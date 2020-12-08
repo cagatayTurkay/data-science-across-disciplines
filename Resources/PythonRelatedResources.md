@@ -1,6 +1,6 @@
 # On Python and Python related resources
 
-![image-20200930114332193](/Users/cagatayturkay/Library/Application Support/typora-user-images/image-20200930114332193.png)
+![image-20200930114332193](image-20200930114332193.png)
 
 ### Why Python?
 
