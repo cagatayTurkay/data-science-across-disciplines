@@ -26,7 +26,7 @@ This week explores the cultural, ethical, and critical challenges posed by data 
 
 [Session details and material](Sessions/session-02.html) 
 
-#### Session-03: ABSTRACTIONS & MODELS 
+#### Session-03: ABSTRACTIONS & MODELS 
 
 This week discusses ways of abstracting data. We start by visiting statistics as a means of representing data and its inherent characteristics. The session moves on to discuss the notion of a “model” and visit the different schools of thought within model-ing, as well as a tour of fundamental statistical models that help abstract data and its inherent relations.
 
