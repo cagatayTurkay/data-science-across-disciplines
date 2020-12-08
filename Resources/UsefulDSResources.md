@@ -7,9 +7,8 @@
 
 - **Data science for business** **: what you need to know about** **data** **mining and** **data****-analytic thinking** **/ Foster Provost & Tom Fawcett** -- http://encore.lib.warwick.ac.uk/iii/encore/record/C__Rb3141595
 
-
-
-Some collections online:
+### Some collections online:
 
 - https://bsharvey.github.io/pages/resources.html
 - https://github.com/letsflykite/Data-Science-Books-1
+

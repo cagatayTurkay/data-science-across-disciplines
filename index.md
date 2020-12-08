@@ -69,3 +69,12 @@ This week explores the question “Can we approach data science as a design prob
 This *workshop week* will involve you working hands-on towards your final assessments individually but in small *coding groups*. In the workshop session, we would like to hear from you on your ideas for [your second coursework](https://moodle.warwick.ac.uk/mod/page/view.php?id=1162248). You will also be able to use this session to start working on the dataset(s) that you have decided (or still considering) to analyse as part of your second assessment and discuss with your peers and with the staff members.
 
  [Session details and material](Sessions/session-09.html) 
+
+
+
+## Some general resources
+
+- A collection of Python related [resources and material](Resources/PythonRelatedResources.html)
+- Useful Data Science resources -- [an always under construction page](Resources/UsefulDSResources.html)
+- Other Data Science classes for inspiration -- [only a small subset](Resources/InspirationalLinks.html)
+

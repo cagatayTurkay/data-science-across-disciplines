@@ -42,7 +42,3 @@ At the end of the session, you should be able to ..
 
 - On missing value removal (accessible through library resources): Acuna, Edgar, and Caroline Rodriguez. "[The treatment of missing values and its effect on classifier accuracy](http://sci2s.ugr.es/keel/pdf/specific/capitulo/IFCS04r.pdf)." *Classification, Clustering, and Data Mining Applications*. Springer Berlin Heidelberg, 2004. 639-647.
 - Saar-Tsechansky, Maytal, and Foster Provost. "[Handling Missing Values when Applying Classification Models](http://www.jmlr.org/papers/volume8/saar-tsechansky07a/saar-tsechansky07a.pdf)." *Journal of Machine Learning Research* 8 (2007): 1625-1657.
-
-## Some interesting discussions:
-
-- Differences between representations of how "deaths" are recoded -- Deaths relating to the coronavirus (COVID-19)

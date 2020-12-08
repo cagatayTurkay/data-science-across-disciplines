@@ -24,17 +24,3 @@ The practical session involves combining perspectives derived from different com
 
 - Barbour, R.S., 2001. Checklists for improving rigour in qualitative research: a case of the tail wagging the dog?. *Bmj*, *322*(7294), pp.1115-1117. [[pdf](https://www.researchgate.net/publication/12000537_Checklists_for_Improving_Rigour_in_Qualitative_Research_A_Case_of_the_Tail_Wagging_the_Dog)]
 - Rule, A., Birmingham, A., Zuniga, C., Altintas, I., Huang, S.C., Knight, R., Moshiri, N., Nguyen, M.H., Rosenthal, S.B., Pérez, F. and Rose, P.W., 2019. Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6657818/)]
-
-
-
-
-
-- Literate programming
-- Bootstraping
-- K-fold validation
-
-
-
-- Titanic data
-- PHE dataset
-
