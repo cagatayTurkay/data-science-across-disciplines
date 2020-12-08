@@ -38,7 +38,7 @@ This week explores the notion of structures and how data science can enable the 
 
 [Session details and material](Sessions/session-04.html) 
 
-#### Session-05: MULTI-MODEL THINKING AND RIGOUR IN DATA SCIENCE 
+#### Session-05: MULTI-MODEL THINKING AND RIGOUR IN DATA SCIENCE 
 
 This week we focus on multi-model approaches as a way of thinking and how critical, pluralistic thinking can improve our understanding of the underlying phenomena implicit in data. We also discuss how to adopt a comprehensive approach to the data science process, and investigate indicators of rigor in data science.
 
